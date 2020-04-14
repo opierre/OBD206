@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ReverseCamera.qml</file>
+        <file>Page4Form.qml</file>
+        <file>DashboardGaugeStyle.qml</file>
+        <file>BottomBar.qml</file>
+        <file>Navigation.qml</file>
+        <file>MapWindow.qml</file>
+        <file>IconGaugeStyle.qml</file>
+        <file>TachometerStyle.qml</file>
+        <file>TurnIndicator.qml</file>
+        <file>ValueSource.qml</file>
+        <file>Dashboard.qml</file>
+        <file>ProgressDSU.qml</file>
+        <file>CircularGauges.qml</file>
+        <file>InfoStackView.qml</file>
+        <file>Thermometer.qml</file>
+        <file>TumblerKm.qml</file>
+        <file>ProgressBarKm.qml</file>
+        <file>Units.qml</file>
+        <file>GaugeCentral.qml</file>
+        <file>Arcs.qml</file>
+        <file>DrawerContent.qml</file>
+        <file>Settings.qml</file>
+    </qresource>
+</RCC>
