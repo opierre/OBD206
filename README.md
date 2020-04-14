@@ -33,21 +33,27 @@ On host :
 This project is intended to display data coming from OBD adapter in car. OBD protocol is not implemented but a QML animation is able to simulate all widgets.
 
 **Page 1**
+
 ![page1](https://github.com/polivier2/OBD206/raw/master/captures/page1.png "Page 1")
 
 **Page 2 - Fuel**
+
 ![page2fuel](https://github.com/polivier2/OBD206/raw/master/captures/page2_fuel.png "Page 2 - Fuel")
 
 **Page 2 - KM**
+
 ![page2km](https://github.com/polivier2/OBD206/raw/master/captures/page2_kms.png "Page 2 - KM")
 
 **Page 2 - Temperature**
+
 ![page2temp](https://github.com/polivier2/OBD206/raw/master/captures/page2_temp.png "Page 2 - Temperature")
 
 **Settings**
+
 ![settings](https://github.com/polivier2/OBD206/raw/master/captures/settings.png "Settings")
 
 **Settings - Bluetooth**
+
 ![settingsblue](https://github.com/polivier2/OBD206/raw/master/captures/settings_bluetooth.png "Settings - Bluetooth")
 
 ## Assets
